@@ -5,12 +5,12 @@
 #include <string.h>
 int main()
 {
-	char name[30];
-	int age; 
-	printf ("What is your name?\n");
-	scanf(name,30,stdin);
+    char name[30];
+    int age; 
+    printf ("What is your name?\n");
+    scanf(name,30,stdin);
     printf ("How old are you?\n");
     scanf ("%d",&age);
-	printf ("Your name is '%s'. And you age is '%d'",name,age);
+    printf ("Your name is '%s'. And you age is '%d'",name,age);
     return 0;
 }
