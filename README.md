@@ -1,5 +1,7 @@
 # Учебные коды программ для курса "Программирование на С"
 
+![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/C-examples)
+
 - **01-Intro**                       :: Введение. Стандартный ввод/вывод. 
 - **02-Data**                        :: Организация данных.               
 - **03-Operators_and _expressions**  :: Операторы и выражения.            
